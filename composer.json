@@ -1,17 +1,23 @@
 {
-    "name": "asantibanez/livewire-calendar",
+    "name": "tamsinrose/livewire-calendar",
     "description": "Laravel Livewire calendar component",
     "keywords": [
         "asantibanez",
+        "tamsinrose",
         "livewire-calendar"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-calendar",
+    "homepage": "https://github.com/TamsinRose/livewire-calendar",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Andrés Santibáñez",
             "email": "santibanez.andres@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Tamsin Rose",
+            "email": "tamsin.rose@outlook.com",
             "role": "Developer"
         }
     ],
