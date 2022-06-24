@@ -9,7 +9,7 @@
 
     {{-- Wrapper for Drag and Drop --}}
     <div
-        class="w-full h-full bg-slate-400"
+        class="w-full h-full"
         id="{{ $componentId }}-{{ $day }}">
 
         <div
