@@ -32,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Asantibanez\\LivewireCalendar\\": "src"
+            "Tamsinrose\\LivewireCalendar\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Asantibanez\\LivewireCalendar\\Tests\\": "tests"
+            "Tamsinrose\\LivewireCalendar\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -51,10 +51,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Asantibanez\\LivewireCalendar\\LivewireCalendarServiceProvider"
+                "Tamsinrose\\LivewireCalendar\\LivewireCalendarServiceProvider"
             ],
             "aliases": {
-                "LivewireCalendar": "Asantibanez\\LivewireCalendar\\LivewireCalendarFacade"
+                "LivewireCalendar": "Tamsinrose\\LivewireCalendar\\LivewireCalendarFacade"
             }
         }
     }
