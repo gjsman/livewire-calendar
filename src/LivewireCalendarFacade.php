@@ -1,6 +1,6 @@
 <?php
 
-namespace Asantibanez\LivewireCalendar;
+namespace Tamsinrose\LivewireCalendar;
 
 use Illuminate\Support\Facades\Facade;
 
